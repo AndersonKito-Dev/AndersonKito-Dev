@@ -1,16 +1,34 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**AndersonKito-Dev/AndersonKito-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Sou [Anderson], um entusiasta da tecnologia apaixonado por desenvolvimento web e programação. Atualmente, estou explorando as áreas de front-end, buscando aprender novas tecnologias e frameworks para criar experiências incríveis na web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Linguagens de programação: JavaScript, Python
+- Front-end: HTML5, CSS3
+- Back-end: Node.js
+- Banco de Dados:
+- Outras ferramentas: Git, GitHub
+
+## Projetos
+
+Aqui estão alguns dos meus projetos recentes:
+
+- [Projeto 1](link_para_projeto_1) - Descrição.
+- [Projeto 2](link_para_projeto_2) - Descrição.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario_github&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## Entre em contato
+
+Vamos conectar? Você pode me encontrar em:
+
+- [LinkedIn](seu_perfil_linkedin)
+- [Twitter](seu_perfil_twitter)
+
+Fique à vontade para explorar meus repositórios e projetos. Sinta-se livre para entrar em contato se tiver alguma pergunta ou se quiser colaborar em algum projeto. Mal posso esperar para aprender e crescer junto com a comunidade do GitHub!
+
