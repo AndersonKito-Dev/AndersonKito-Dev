@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Sou [Anderson], um entusiasta da tecnologia apaixonado por desenvolvimento web e programação. Atualmente, estou explorando as áreas de front-end, buscando aprender novas tecnologias e frameworks para criar experiências incríveis na web.
+Olá! Sou Anderson, um entusiasta da tecnologia apaixonado por desenvolvimento web e programação. Atualmente, estou explorando as áreas de front-end, buscando aprender novas tecnologias e frameworks para criar experiências incríveis na web.
 
 ## Tecnologias
 
