@@ -21,7 +21,7 @@ Aqui estão alguns dos meus projetos recentes:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario_github&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndersonKito-Dev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Entre em contato
 
