@@ -27,6 +27,7 @@ Here are some of my recent projects:
 
 Let's connect? You can find me on:
 
+- [Instagram](https://www.instagram.com/andersonluis._/)
 - [LinkedIn](your_linkedin_profile)
 - [Twitter](your_twitter_profile)
 
