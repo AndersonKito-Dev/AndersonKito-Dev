@@ -1,34 +1,33 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Welcome to my GitHub Profile!
 
-## Sobre mim
+## About Me
 
-Olá! Sou Anderson, um entusiasta da tecnologia apaixonado por desenvolvimento web e programação. Atualmente, estou explorando as áreas de front-end, buscando aprender novas tecnologias e frameworks para criar experiências incríveis na web.
+Hello! I'm Anderson, a technology enthusiast passionate about web development and programming. Currently, I'm exploring the front-end areas, seeking to learn new technologies and frameworks to create amazing web experiences.
 
-## Tecnologias
+## Technologies
 
-- Linguagens de programação: JavaScript, Python
+- Programming Languages: JavaScript, Python
 - Front-end: HTML5, CSS3
 - Back-end: Node.js
-- Banco de Dados:
-- Outras ferramentas: Git, GitHub
+- Database:
+- Other Tools: Git, GitHub
 
-## Projetos
+## Projects
 
-Aqui estão alguns dos meus projetos recentes:
+Here are some of my recent projects:
 
-- [Projeto 1](link_para_projeto_1) - Descrição.
-- [Projeto 2](link_para_projeto_2) - Descrição.
+- [Project 1](link_to_project_1) - Description.
+- [Project 2](link_to_project_2) - Description.
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndersonKito-Dev&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AndersonKito-Dev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-## Entre em contato
+## Contact
 
-Vamos conectar? Você pode me encontrar em:
+Let's connect? You can find me on:
 
-- [LinkedIn](seu_perfil_linkedin)
-- [Twitter](seu_perfil_twitter)
+- [LinkedIn](your_linkedin_profile)
+- [Twitter](your_twitter_profile)
 
-Fique à vontade para explorar meus repositórios e projetos. Sinta-se livre para entrar em contato se tiver alguma pergunta ou se quiser colaborar em algum projeto. Mal posso esperar para aprender e crescer junto com a comunidade do GitHub!
-
+Feel free to explore my repositories and projects. Don't hesitate to get in touch if you have any questions or want to collaborate on a project. I can't wait to learn and grow together with the GitHub community!
