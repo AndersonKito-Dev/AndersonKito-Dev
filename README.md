@@ -16,8 +16,7 @@ Hello! I'm Anderson, a technology enthusiast passionate about web development an
 
 Here are some of my recent projects:
 
-- [Project 1](link_to_project_1) - Description.
-- [Project 2](link_to_project_2) - Description.
+- [Project 1]([link_to_project_1](https://github.com/AndersonKito-Dev/curso-html-css/tree/main/modulo_1/d009)) - My workouts at the gym.
 
 ## GitHub Statistics
 
