@@ -8,7 +8,7 @@ Hello! I'm Anderson, a technology enthusiast passionate about web development an
 
 - Programming Languages: JavaScript, Python
 - Front-end: HTML5, CSS3
-- Back-end: Node.js
+- Back-end: 
 - Database:
 - Other Tools: Git, GitHub
 
