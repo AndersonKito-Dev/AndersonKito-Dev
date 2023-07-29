@@ -16,7 +16,7 @@ Hello! I'm Anderson, a technology enthusiast passionate about web development an
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/AndersonKito-Dev/curso-html-css/tree/main/modulo_2/d010) - Site of the CursoEmVideo.
+- [CursoEmVideo's site](https://andersonkito-dev.github.io/curso-html-css/modulo_2/d010/) - Site of the CursoEmVideo.
 
 ## GitHub Statistics
 
