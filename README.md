@@ -17,7 +17,7 @@ Hello! I'm Anderson, a technology enthusiast passionate about web development an
 Here are some of my recent projects:
 
 - [CursoEmVideo's site](https://andersonkito-dev.github.io/Projeto-Android/) - Site of the Android Project.
-- [CursoEmVideo's site]() - Site of the Cordel Moderno Project.
+- [CursoEmVideo's site](https://andersonkito-dev.github.io/Projeto-Cordel-Moderno/) - Site of the Cordel Moderno Project.
 
 ## Contact
 
